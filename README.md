@@ -3,3 +3,6 @@
 
 常用函数：
 len(str) 
+
+常用句式：
+ for i in range(len(nums)):      nums-->Lidt  
